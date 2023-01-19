@@ -1,7 +1,7 @@
 # [LeetCode] SQL 쿼리 테스트
 Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 
-### Database 문제
+### [Database 문제](https://leetcode.com/problemset/database/?difficulty=EASY)
 |  | 문제 | 레벨 | 재풀이 필요 |
 | --- | --- | --- | --- |
 | 175 | Combine Two Tables | Easy |  |
