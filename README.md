@@ -29,19 +29,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | 1795 | Rearrange Products Table | Easy | ⭐ | [📋](https://github.com/aramssong/LeetCode_SQL/tree/main/1795-rearrange-products-table) |
 | 1890 | The Latest Login in 2020 | Easy |  | [📋](https://github.com/aramssong/LeetCode_SQL/tree/main/1890-the-latest-login-in-2020) |
 | 1965 | Employees With Missing Information | Easy | ⭐ | [📋](https://github.com/aramssong/LeetCode_SQL/tree/main/1965-employees-with-missing-information) |
-
-### 1. SELECT
-|  | 문제 | 레벨 | 재풀이 필요 |
-| --- | --- | --- | --- |
-| 595 | Big Countries | Easy |  |
-| 1757 | Recyclable and Low Fat Products | Easy |  |
-| 584 | Find Customer Referee | Easy |  |
-| 183 | Customers Who Never Order | Easy |  |
-
-### 2. SELECT & ORDER
-
-|  | 문제 | 레벨 | 재풀이 필요 |
-| --- | --- | --- | --- |
-| 1873 | Calculate Special Bonus | Easy |  |
-| 627 | Swap Salary | Easy | ⭐ |
-| 196 | Delete Duplicate Emails | Easy | ⭐ |
+| 1757 | Recyclable and Low Fat Products | Easy |  | [📋](https://github.com/aramssong/LeetCode_SQL/tree/main/1757-recyclable-and-low-fat-products) |
+| 584 | Find Customer Referee | Easy |  | [📋](https://github.com/aramssong/LeetCode_SQL/tree/main/0584-find-customer-referee) |
+| 183 | Customers Who Never Order | Easy |  | [📋](https://github.com/aramssong/LeetCode_SQL/tree/main/0183-customers-who-never-order) |
+| 595 | Big Countries | Easy |  | [📋](https://github.com/aramssong/LeetCode_SQL/tree/main/0595-big-countries) |
+| 1873 | Calculate Special Bonus | Easy |  | [📋](https://github.com/aramssong/LeetCode_SQL/tree/main/1873-calculate-special-bonus) |
+| 627 | Swap Salary | Easy | ⭐ | [📋](https://github.com/aramssong/LeetCode_SQL/tree/main/0627-swap-salary) |
+| 196 | Delete Duplicate Emails | Easy | ⭐ | [📋](https://github.com/aramssong/LeetCode_SQL/tree/main/0196-delete-duplicate-emails) |
